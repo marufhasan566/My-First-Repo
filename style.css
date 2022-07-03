@@ -1,0 +1,34 @@
+
+h1{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: larger;
+    padding: 20px;
+}
+#zero{
+    font-weight: 500;
+    font-size: large;
+}
+
+.credit{
+    background-color: bisque;
+    padding: 10px;
+    text-align: right;
+    margin-right: 20px;
+}
+#one{
+    width: 10%;
+}
+#two{
+    color: brown;
+    font-weight: 600;
+}
+.first{
+    font-size: 20px;
+}
